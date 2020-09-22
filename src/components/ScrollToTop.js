@@ -5,7 +5,7 @@ function ScrollToTop({ children }) {
   const { pathname } = useLocation();
  
   useEffect(() => {
-    if (pathname !== "/contact") window.scrollTo(0, 0);
+    if (pathname !== "/something") window.scrollTo(0, 0);
   }, [pathname]);
  
   return children;

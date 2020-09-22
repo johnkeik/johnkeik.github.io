@@ -17,14 +17,14 @@ function Cards() {
                         src="images/image-react.jpg"
                         text="Native Web Apps"
                         label="ReactJs"
-                        path="/services"
+                    
                         type="image"
                         />
                         <CardItem 
                         src="images/image-h-c-j.jpg"
                         text="Fully customizable and Responsive WebSites."
                         label="HTML-CSS-JS"
-                        path="/services"
+                 
                         type="image"
                         />
                        
@@ -37,21 +37,21 @@ function Cards() {
                         src="images/image-flutter.jpg"
                         text="Native mobile applications using Flutter and Dart"
                         label="Flutter"
-                        path="/services"
+                 
                         type="image"
                         />
                         <CardItem 
                         src="images/image-androidS.jpg"
                         text="Mobile apps with Java and Android Studio."
                         label="Android Studio"
-                        path="/services"
+                 
                         type="image"
                         />
                         <CardItem 
                         src="images/image-firebase.jpg"
                         text="Store data online with Google's Firebase"
                         label="Firebase"
-                        path="/services"
+                 
                         type="image"
                         />
                     </ul>
@@ -61,30 +61,30 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src="images/image-NET.jpg"
-                        text="Native mobile applications using Flutter and Dart"
+                        text="A developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices."
                         label=".NET"
-                        path="/services"
+                 
                         type="image"
                         />
                         <CardItem 
                         src="images/image-java.jpg"
-                        text="Mobile apps with Java and Android Studio."
+                        text="Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
                         label="JAVA"
-                        path="/services"
+                 
                         type="image"
                         />
                         <CardItem 
                         src="images/image-python.jpg"
-                        text="Store data online with Google's Firebase"
+                        text="Python is an interpreted, high-level and general-purpose programming language."
                         label="Python"
-                        path="/services"
+                 
                         type="image"
                         />
                          <CardItem 
                         src="images/image-C.jpg"
-                        text="Store data online with Google's Firebase"
+                        text="C# (C-Sharp) is a programming language developed by Microsoft that runs on the . NET Framework. C# is used to develop web apps, desktop apps, mobile apps, games and much more."
                         label="C#"
-                        path="/services"
+                 
                         type="image"
                         />
                     </ul>
@@ -94,16 +94,16 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src="images/image-sql.jpg"
-                        text="Native mobile applications using Flutter and Dart"
+                        text="SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS)"
                         label="SQL"
-                        path="/services"
+                 
                         type="image"
                         />
                         <CardItem 
                         src="images/image-postgress.jpg"
-                        text="Mobile apps with Java and Android Studio."
+                        text="Is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance"
                         label="POSTGRESS"
-                        path="/services"
+                 
                         type="image"
                         />
                         

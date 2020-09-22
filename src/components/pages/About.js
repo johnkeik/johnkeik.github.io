@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../App.css';
-
+import Footer from '../Footer';
 export default function About() {
     return (
         <div>
@@ -35,9 +35,9 @@ export default function About() {
 
                     </ul>
                 </div>
-
+           
             </div>
-
+            <Footer/>
 
         </div>
     )

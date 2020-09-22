@@ -14,53 +14,53 @@ function Portfolio() {
                         src="/videos/project1.mp4"
                         text="Native Web Apps"
                         label="ReactJs"
-                        path="https://www.google.com"
+                        path=" https://johnkeik.github.io/react_project1/"
                         type="video"
+                        code="https://github.com/johnkeik/react_project1/tree/master"
                         />
                         <CardItem 
                         src="/videos/project2.mp4"
-                        text="Fully customizable and Responsive WebSites."
+                        text="Fully customizable and Responsive WebSites"
                         label="HTML-CSS-JS"
-                        path="/services"
+                        path=" https://johnkeik.github.io/myPortfolioSite/"
                         type="video"
+                        code="https://github.com/johnkeik/myPortfolioSite"
                         />
                         <CardItem 
                         src="/videos/events.mp4"
                         text="Desktop application for Thessaloniki's events"
                         label="C#"
-                        path="/services"
+                        path="https://github.com/N1ckTheD1ck/Events-Project-Team-7"
                         type="video"
+                        code="https://github.com/N1ckTheD1ck/Events-Project-Team-7"
                         />
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
                         src="/videos/snake.mp4"
-                        text="Native Web Apps"
+                        text="Snake game in unity."
                         label="Unity"
-                        path="/services"
                         type="video"
+                        code=""
                         />
                         <CardItem 
                         src="/videos/cargame.mp4"
-                        text="Fully customizable and Responsive WebSites."
+                        text="Car game project in unity"
                         label="Unity"
-                        path="/services"
                         type="video"
                         />
                     </ul>
                     <ul className="cards__items">
                         <CardItem 
                         src="/videos/minion.mp4"
-                        text="Native Web Apps"
-                        label="ReactJs"
-                        path="/services"
+                        text="Minion 3d animation for academic purposes."
+                        label="3dsMax"
                         type="video"
                         />
                         <CardItem 
                         src="/videos/whitetower.mp4"
-                        text="Fully customizable and Responsive WebSites."
-                        label="HTML-CSS-JS"
-                        path="/services"
+                        text="Thessaloniki's white tower 3d model"
+                        label="3dsMax"
                         type="video"
                         />
                     </ul>

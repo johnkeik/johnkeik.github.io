@@ -46,6 +46,9 @@
     overflow: hidden;
     text-decoration: none;
   }
+  .cards__item__link:hover{
+    text-decoration: none;
+  }
   
   .cards__item__pic-wrap {
     position: relative;

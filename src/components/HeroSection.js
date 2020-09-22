@@ -7,7 +7,7 @@ function HeroSection() {
         <div className='hero-container'>
             <video src='/videos/video-2.mp4' autoPlay loop muted />
             <h1>Full Stack Developer</h1>
-            <p>Scroll down to check my Skills!</p>
+            <p>Scroll down!</p>
             <div className="arrowAnim">
                 <div className="arrowSliding">
                     <div className="arrow"></div>

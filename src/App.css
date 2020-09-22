@@ -42,3 +42,126 @@
   color: #fff;
   font-size: 100px;
 }
+
+/* About page */
+
+.about__info__container{
+  width:90%;
+  margin:0 auto;
+}
+
+.about__img{
+    margin-top:20px;
+  width:100%;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 10px;
+}
+
+.about__img__info{
+  margin-top:20px;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 10px;
+  width:100%;
+}
+
+.about__img__info h2{
+  font-family: arial;
+  font-size: 30px;
+  color:#111;
+  line-height: 34px;
+}
+
+.about__img__info p{
+  font-family: arial;
+  font-size: 16px;
+  color:#111;
+  line-height: 24px;
+  padding:0px 30px 20px;
+}
+.about__research__container{
+  width: 90%;
+  margin:0 auto;
+}
+.about__research{
+  width:100%;
+  margin-top:20px;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  border-radius: 10px;
+  display: inline-block;
+  text-align: center;
+}
+.about__research ul{
+  list-style-type: none;
+}
+.about__research h2{
+  font-family: arial;
+  font-size: 30px;
+  color:#111;
+  line-height: 34px;
+}
+
+@media only screen and (min-width:768px){
+  .about__info__container{
+    width:600px;
+    margin:0 auto;
+  }
+  .about__img{
+    margin-top:20px;
+  }
+
+  .about__img__info h2{
+    padding:20px 20px 0px;
+  }
+  
+  .about__img__info p{
+    padding:0px 20px 0px;
+  }
+  .about__research__container{
+    width: 600px;
+  }
+
+
+}
+
+
+@media only screen and (min-width:960px){
+  .about__info__container{
+    width:960px;
+  }
+  .about__img__info {
+    margin-top: 40px;
+    width:60%;
+    float: right;
+  }
+  .about__img{
+    width:30%;
+    float: left;
+  }
+
+  .about__img__info h2{
+    padding:20px 20px 0px;
+  }
+  
+  .about__img__info p{
+    padding:0px 20px 20px;
+  }
+  .about__research{
+    width: 100%;
+  }
+  .about__research__container{
+    width:960px;
+  }
+
+
+
+
+
+
+}
+

@@ -9,17 +9,17 @@ function HeroSection() {
             <h1>Full Stack Developer</h1>
             <p>Scroll down to check my Skills!</p>
             <div className="arrowAnim">
-                <div class="arrowSliding">
-                    <div class="arrow"></div>
+                <div className="arrowSliding">
+                    <div className="arrow"></div>
                 </div>
-                <div class="arrowSliding delay1">
-                    <div class="arrow"></div>
+                <div className="arrowSliding delay1">
+                    <div className="arrow"></div>
                 </div>
-                <div class="arrowSliding delay2">
-                    <div class="arrow"></div>
+                <div className="arrowSliding delay2">
+                    <div className="arrow"></div>
                 </div>
-                <div class="arrowSliding delay3">
-                    <div class="arrow"></div>
+                <div className="arrowSliding delay3">
+                    <div className="arrow"></div>
                 </div>
             </div>
             {/*  <span className="point__down"><i className="far fa-hand-point-down fa-7x"></i></span>

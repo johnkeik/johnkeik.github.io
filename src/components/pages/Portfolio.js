@@ -41,13 +41,14 @@ function Portfolio() {
                         text="Snake game in unity."
                         label="Unity"
                         type="video"
-                        code=""
+                        code="https://github.com/johnkeik/unity_snake"
                         />
                         <CardItem 
                         src="/videos/cargame.mp4"
                         text="Car game project in unity"
                         label="Unity"
                         type="video"
+                        code="https://github.com/johnkeik/unity_car_Game_Project"
                         />
                     </ul>
                     <ul className="cards__items">
